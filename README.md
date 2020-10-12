@@ -1,0 +1,1 @@
+# nginx-nextjs-setting
